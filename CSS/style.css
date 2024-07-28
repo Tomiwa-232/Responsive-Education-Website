@@ -167,7 +167,8 @@ nav button {
 }
 
 .nav__menu a:hover {
-    color: var(--color-bg2);
+    color: var(--color-light);
+    letter-spacing: 0.1rem;
 }
 
 /*============== HEADER ============*/
