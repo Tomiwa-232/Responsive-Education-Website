@@ -140,7 +140,7 @@ nav {
 
 /* NAVBAR STYLES CHANGE ON SCROLL */
 .window-scroll {
-    background: transparent;
+    background: var(--color-primary);
     box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
 }
 
